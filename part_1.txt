@@ -1,0 +1,4 @@
+In Python, truncate() refers to a method used to resize a file, effectively shortening it to a 
+specified size or the current file position.
+File Object's truncate() Method:
+Purpose:
